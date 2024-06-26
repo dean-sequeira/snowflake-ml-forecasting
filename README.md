@@ -32,12 +32,3 @@ The file contains bike sharing counts aggregated on daily basis (day.csv - 731 r
 
 This data set has been
 sourced [datasciencedojo](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Bike%20Sharing)
-
-| Attribute Name | Definition                                           | Example    |
-|----------------|------------------------------------------------------|------------|
-| dteday         | Date (Format: YYYY-MM-DD)                            | 2012-12-23 | 
-| season         | Season (1: spring, 2: summer, 3: fall, 4: winter)    | 1, 2, 4    |
-| holiday        | Weather day is holiday or not                        | 0, 1       |
-| workingday     | Day is neither weekend nor holiday is 1, otherwise 0 | 0, 1       | 
-| casual         | Count of casual users                                | 0, 2, 57   |
-| registered     | Count of registered users                            | 1, 0, 118  |
